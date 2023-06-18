@@ -1,0 +1,10 @@
+
+Le diffenze palesi tra http e http sono le seguenti :
+
+La porta HTTP è  usata per la comunicazione del sistema da client a sito è la porta 80 .
+Con quest'ultimo si possono vedere i dati in chiaro senza che essi vengano criptati
+
+La porta 433 è quella usata dal protocollo HTTPS
+Le informazioni che viaggiano attraverso questa porta, infatti, 
+sono crittografate attraverso la tecnologia SSL/TLS.
+Ciò significa che la connessione è protetta e le informazioni sono mantenute al sicuro durante il loro transito.
