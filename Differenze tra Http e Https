@@ -8,3 +8,9 @@ La porta 433 è quella usata dal protocollo HTTPS
 Le informazioni che viaggiano attraverso questa porta, infatti, 
 sono crittografate attraverso la tecnologia SSL/TLS.
 Ciò significa che la connessione è protetta e le informazioni sono mantenute al sicuro durante il loro transito.
+
+  " SSL" Secure Sockets Layer
+SSL è la tecnologia standard che garantisce la sicurezza di una connessione a Internet mediante crittografia dei dati inviati tra un sito web e un browser (o tra due server).
+
+TLS è un protocollo di sicurezza che fornisce privacy e integrità dei dati per le comunicazioni Internet. 
+L'implementazione di TLS è una pratica standard per la creazione di applicazioni Web sicure.
